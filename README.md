@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/blog-preview-using-html-and-css-V95Mvi33DT)
 - [Live URL](https://4-walker.github.io/fem_blogprievewchallenge/)
 
 ## My process
